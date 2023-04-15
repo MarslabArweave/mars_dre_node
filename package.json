@@ -1,5 +1,12 @@
 {
   "dependencies": {
-    "warp-contracts": "^1.2.52"
+    "https": "^1.0.0",
+    "koa": "^2.14.1",
+    "koa-bodyparser": "^4.4.0",
+    "koa-router": "^12.0.0",
+    "koa-sslify": "^5.0.1",
+    "node-schedule": "^2.1.1",
+    "warp-contracts": "1.2.17",
+    "warp-contracts-lmdb": "1.1.0"
   }
 }
